@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+.menu li{
+list-style: none;
+margin-left: 50px;
+}
+.menu li:first-child{
+    margin-left:0;
+}
+.menu li{
+    display: inline-block;
+}
+ul.menu{
+    padding-left: 0px;
+}
+main div{
+    display: inline-block;
+}
+ul.menu{
+    padding-left: 0px;
+}
+.main div{
+    display: inline-block;
+    width: 48%;
+}
+.subp{
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb(98, 98, 98);
+    text-transform: uppercase;
+}
+h2{
+    font-size: 30px;
+    font-family: "Playfair Display";
+    color: rgb(98, 98, 98);
+}
+p{
+    font-size: 14px;
+    font-family: "Playfair Display";
+    color: rgb(98, 98, 98);
+}
+
+
+
